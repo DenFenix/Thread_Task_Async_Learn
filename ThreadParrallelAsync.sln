@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadLern", "Thread\ThreadLern.csproj", "{AEBA0652-99E5-453F-AEE2-65C0FFEF7EB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TPL", "TPL\TPL.csproj", "{0620CCCE-2746-4CF0-A84B-9C40AE0304F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{5220E11F-2220-4D9F-A2FB-EC144B9A5D5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBA0652-99E5-453F-AEE2-65C0FFEF7EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBA0652-99E5-453F-AEE2-65C0FFEF7EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBA0652-99E5-453F-AEE2-65C0FFEF7EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBA0652-99E5-453F-AEE2-65C0FFEF7EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0620CCCE-2746-4CF0-A84B-9C40AE0304F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0620CCCE-2746-4CF0-A84B-9C40AE0304F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0620CCCE-2746-4CF0-A84B-9C40AE0304F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0620CCCE-2746-4CF0-A84B-9C40AE0304F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5220E11F-2220-4D9F-A2FB-EC144B9A5D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5220E11F-2220-4D9F-A2FB-EC144B9A5D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5220E11F-2220-4D9F-A2FB-EC144B9A5D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5220E11F-2220-4D9F-A2FB-EC144B9A5D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE5291F5-926A-4EC2-B118-5B687D5B4514}
+	EndGlobalSection
+EndGlobal
